@@ -2,6 +2,7 @@
 Predicting the winners of the B1G college basketball tournament
 
 Contributions:
+
 Hailey Reese : 
 
 Jacob Schmidt : Created class for visualizations and OLS analysis on coefficients 
