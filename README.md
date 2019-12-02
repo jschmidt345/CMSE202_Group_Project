@@ -13,10 +13,10 @@ Contributions:
 
 Hailey Reese : Tested different methods on utilizing classifiers to predict the seeds of each team in the Big Ten Tournament; Created a predictor model to predict the outcome of each game in the tournament. This model was based off Kenpom's model which utilizes a team's adjusted offense and adjusted defense efficiencies.
 
-Jacob Schmidt : Created class for visualizations and OLS analysis on coefficients 
+Jacob Schmidt : Created class for visualizations and OLS analysis on coefficients
 
-Jennifer Abel : 
+Jennifer Abel :
 
-Hayden Weiss : 
+Hayden Weiss : Created notebook to calculate the PCA to determine which team provided the most variance with their statistics.
 
 Noah Jankowski : Created the data files using basketball reference on excel and turned them into CSV for use in the notebook. Created the function to generate a bracket and update it with text of the winners as each round of the tournament progresses.  This was mainly done using PIL.  
