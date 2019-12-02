@@ -19,4 +19,4 @@ Jennifer Abel :
 
 Hayden Weiss : 
 
-Noah Jankowski : 
+Noah Jankowski : Created the data files using basketball reference on excel and turned them into CSV for use in the notebook. Created the function to generate a bracket and update it with text of the winners as each round of the tournament progresses.  This was mainly done using PIL.  
